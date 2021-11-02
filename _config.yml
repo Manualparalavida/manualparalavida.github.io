@@ -23,7 +23,7 @@ title: Manual para la Vida                         # the main title
 tagline: Una guia para la vida   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Es un blog que te cambiara la forma de ver la vida
+  Es un blog que te cambiara la forma de ver la vida.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url:'https://manualparalavida.github.io'
