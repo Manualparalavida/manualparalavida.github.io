@@ -161,10 +161,10 @@ exclude:
   - '*.json'
 
 jekyll-archives:
-  enabled: [categories, tags]
+  enabled: [categorias, etiquetas]
   layouts:
-    category: category
-    tag: tag
+    category: categoria
+    tag: etiqueta
   permalinks:
-    tag: /tags/:name/
+    tag: /etiqueta/:name/
     category: /categorias/:name/
