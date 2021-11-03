@@ -162,7 +162,7 @@ exclude:
 
 jekyll-archives:
   enabled: [categorias, etiquetas]
-  layout: archivos
+  layouts: archivos
     category: categoria
     tag: etiqueta
   permalinks:
